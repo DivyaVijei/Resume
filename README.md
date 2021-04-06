@@ -4,7 +4,7 @@
 - Age:19
 - Father Name:Seshagiri rao Takkellapati
 - Email Id:divyavijeitakkellapati@gmail.com
-### Educational Details:
+#### Educational Details:
 **B.Tech-CSE**
 - RVR&JC College of Engineering
 - AN University,Guntur
